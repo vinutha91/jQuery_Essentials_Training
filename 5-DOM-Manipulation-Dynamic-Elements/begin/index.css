@@ -1,0 +1,11 @@
+.myStylishButton {
+    height: 40px;
+    width: 250px;
+    background-color: yellow;
+}
+
+.myStylishButtonHover {
+    height: 40px;
+    width: 250px;
+    background-color: red;
+}

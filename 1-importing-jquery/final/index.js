@@ -1,0 +1,3 @@
+function isjQueryLoaded() {
+    console.log($);
+}
